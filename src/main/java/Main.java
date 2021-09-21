@@ -8,5 +8,6 @@ public class Main {
         System.out.println("virker det?");
         System.out.println("kom nuuu");
         System.out.println("qwsadasds<d");
+        System.out.println("det er mig, peter!");
     }
 }
