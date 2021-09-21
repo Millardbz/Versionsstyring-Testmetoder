@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Suuuasdasdasdadasdup");
         System.out.println("øvelse");
         System.out.println("Øvelse Millard");
+        System.out.println("virker det?");
+
     }
 }
